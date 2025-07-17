@@ -5,3 +5,4 @@ streamlit
 pandas
 fpdf
 requests
+reportlab
