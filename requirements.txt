@@ -1,0 +1,7 @@
+Txt
+
+
+streamlit
+pandas
+fpdf
+requests
